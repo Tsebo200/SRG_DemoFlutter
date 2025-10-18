@@ -4,7 +4,7 @@ I Tried Flutter  <br />
 
 Copyright © Tsebo Ramonyalioa 2025 (Creative T). All rights reserved.
 
-This software, including its source code, structure, concept, design, and underlying ideas,
+This software, including its source code, structure, __CONCEPT__, design, and underlying ideas,
 is proprietary and confidential. No part of this project may be copied, reproduced, modified,
 distributed, transmitted, displayed, published, or otherwise exploited in any form or by any means,
 without the express prior written permission of the copyright owner.
