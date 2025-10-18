@@ -19,4 +19,4 @@ All product names, logos, and trademarks referenced in this project are the prop
 The concept and design of this project are protected intellectual property.
 
 For inquiries regarding usage or licensing rights, contact:
-* **Tsebo Ramonyalioa** - [tsebo.ramonyalioa.an@gmail.com](mailto:tsebo.ramonyalioa.an@gmail.com) - [inspiration__200](https://www.instagram.com/inspiration__200/) - Call [Me](tel:+27829000488)
+* **Tsebo Ramonyalioa** - [tsebo.ramonyalioa.an@gmail.com](mailto:tsebo.ramonyalioa.an@gmail.com) - [inspiration__200](https://www.instagram.com/inspiration__200/)
